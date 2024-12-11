@@ -2,7 +2,7 @@
   "name": "vite-react-js-tanstack-router-mantine-template",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://oliverfrei.github.io/BookingsystemREAL",
+  "homepage": "https://oliverfrei.github.io/3semeksamen",
   "type": "module",
   "scripts": {
     "dev": "vite",
