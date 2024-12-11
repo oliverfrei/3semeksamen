@@ -1,0 +1,16 @@
+# Ignorer node_modules
+node_modules/
+
+# Ignorer build-output
+dist/
+
+# Ignorer IDE-specifikke filer
+.vscode/
+.DS_Store
+
+# Ignorer midlertidige filer og logs
+*.log
+*.cache
+
+# Ignorer Preview.js filer
+__previewjs__/
